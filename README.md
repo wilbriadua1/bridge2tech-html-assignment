@@ -205,11 +205,10 @@ If you finish early, try these additional challenges:
 ## 🆘 Getting Help
 
 ### **If You Get Stuck:**
-1. **Review the class examples** and your notes
+1. **Review w3schools**: https://www.w3schools.com/ and your notes
 2. **Use HTML validation**: https://validator.w3.org/
-3. **Check the Git cheat sheet** from class
-4. **Ask questions** in our class discussion forum
-5. **Remember**: It's okay if it doesn't look pretty yet - we'll add CSS next class!
+3. **Look up the Git cheat sheet** 
+4. **Remember**: It's okay if it doesn't look pretty yet - we'll add CSS next class!
 
 ### **Common Issues & Solutions:**
 - **Git errors**: Make sure you're in the right directory and have initialized the repo
